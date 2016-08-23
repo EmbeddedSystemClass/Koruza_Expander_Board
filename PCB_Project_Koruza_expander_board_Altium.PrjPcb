@@ -175,7 +175,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=CAMtastic2.Cam
+DocumentPath=CAMtastic1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -192,24 +192,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=CAMtastic3.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document11]
-DocumentPath=CAMtastic4.Cam
+DocumentPath=CAMtastic2.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -246,78 +229,46 @@ DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Ko
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
 DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GD1
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GG1
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument17]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.REP
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.TXT
 DItemRevisionGUID=
 
@@ -738,7 +689,7 @@ OutputDocumentPath12=
 OutputVariantName12=[No Variations]
 OutputDefault12=0
 Configuration12_Name1=OutputConfigurationParameter1
-Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908291~1,16908301~1,16908303~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908291~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
