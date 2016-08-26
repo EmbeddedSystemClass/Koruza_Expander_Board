@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -174,6 +174,70 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.DRL
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GG1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GM3
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for PCB_Project_Koruza_expander_board_Altium\PCB_Koruza_expander_board.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -221,7 +285,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for PCB_Project_Koruza_expander_board_Altium
 
 [OutputGroup1]
 Name=Netlist Outputs
