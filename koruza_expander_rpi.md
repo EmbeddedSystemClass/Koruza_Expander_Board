@@ -21,6 +21,10 @@ New Koruza expander board will connect the Raspberry Pi A+ to the new Koruza rou
   * GPIO for transmitter
   * GPIO for receiver
 
+### Version 1.0
+This version is currently active and used with https://github.com/IRNAS/Universal-Stepper-Driver-Rpi board. The following modifications are required to attach Raspberry Pi A+ or Zero to this shield:
+ * Cut 12V trace on shield not to connect 5V pins on Raspberry Pi header
+ * Solder an USB header on Raspberry and on expander and connect with a cable
 
 ### Version 1.1
 Koruza units with WiTi board are ready for further development, testing, and assembly, so the new version of the board for Raspberry Pi A+ need to be made for them. All connectors mentioned above are necessary, but also power regulators for converting 24 V PoE input to 12 V for Koruza driver, Koruza router and everything else.
